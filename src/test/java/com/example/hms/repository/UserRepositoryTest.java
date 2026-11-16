@@ -15,7 +15,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Project Name : Hospital Management System
  * Module       : User Repository Testing
- * Author       : Hemang
+ * Author       : Utakarsh Jain
  * Date         : 09-11-2026
  *
  * Description:
